@@ -1,0 +1,7 @@
+.placeholder-center::placeholder {
+  text-align: center;
+}
+.scrollbar::-webkit-scrollbar{
+  display: none;
+}
+
